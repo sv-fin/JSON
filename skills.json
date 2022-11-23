@@ -1,0 +1,12 @@
+{
+    "name": "HTML",
+    "categoryName": "Maths, science and engineering",
+    "skillIcon": "pictures/icons/HTML.png",
+    "description": "Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.",
+    "descriptionWikipediaURL": "https://en.wikipedia.org/wiki/HTML",
+    "pointDescription": [
+      "Understanding basic HTML terms, tags, structure of a website and interlinkage of basic web technologies (Cascading Style Sheets and JavaScript).",
+      "Understanding of basic HTML elements and the basic flow of creating HTML documents.",
+      "An understanding of how opening tags and closing tags work, how to create an HTML document with the proper DOCTYPE, how to nest HTML tags within another, how to use attributes, and use them to inline style or add required data. How to use <style> and <script> to put CSS and JavaScript onto a HTML document",
+      "Knowing most of HTML tags in the language, understand when to use tags. The client-server relationship in the abstract, how to use attributes to style and identification for tags, how to link external resources like CSS, and JavaScript into your HTML.  An understanding of the Document Object Model or DOM works and how your HTML will be read by accessible hardware such as screen readers",
+      "Knowing all the HTML tags, the ability to manipulate the DOM, understanding how to create your own attributes using data-*, Build HTML documents semantically, How your HTML will be read by blogs, social networks, etc. for content"]}
